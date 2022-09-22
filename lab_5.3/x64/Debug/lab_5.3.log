@@ -1,0 +1,4 @@
+﻿  lab_5.3.cpp
+D:\c++\lab_5.3\lab_5.3.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\c++\lab_5.3\lab_5.3.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab_5.3.vcxproj -> D:\c++\lab_5.3\x64\Debug\lab_5.3.exe
